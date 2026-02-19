@@ -15,7 +15,7 @@ For beginners or users who prefer a graphical interface:
 
 👉 A future **GUI version** could provide the same core features with an easy-to-use desktop interface.
 
-> 
+>  Work in progress 
 
 ---
 
