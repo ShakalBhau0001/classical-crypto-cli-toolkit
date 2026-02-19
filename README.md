@@ -263,7 +263,8 @@ Handle sensitive data with caution.
 
 ## 🪪 Author
 
-> Developer: **Shakal Bhau**  
+> Developer: **Shakal Bhau**
+
 > GitHub: **[ShakalBhau0001](https://github.com/ShakalBhau0001)**
 
 ---
