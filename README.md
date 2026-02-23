@@ -17,6 +17,8 @@ For beginners or users who prefer a graphical interface:
 
 >  Work in progress 
 
+> 🔗 GUI Repository: **[Classical-Crypto-GUI-Toolkit](https://github.com/ShakalBhau0001/classical-crypto-gui-toolkit)**
+
 ---
 
 ## ✨ Key Principles
