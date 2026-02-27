@@ -15,8 +15,6 @@ For beginners or users who prefer a graphical interface:
 
 👉 A future **GUI version** could provide the same core features with an easy-to-use desktop interface.
 
->  Work in progress 
-
 > 🔗 GUI Repository: **[Classical-Crypto-GUI-Toolkit](https://github.com/ShakalBhau0001/classical-crypto-gui-toolkit)**
 
 ---
@@ -107,7 +105,7 @@ python main.py --help
 ## 🧪 CLI Usage Examples
 
 > **Syntax**
->
+
 > ```bash
 > python main.py <cipher> [options]
 > python main.py <attack> [options]
@@ -256,7 +254,7 @@ Handle sensitive data with caution.
 
 ## 🛣️ Roadmap
 
-- Add GUI version for beginners  
+- Frequency analysis tools
 - Batch processing support  
 - Linux & macOS packaging  
 - PyInstaller standalone binaries  
