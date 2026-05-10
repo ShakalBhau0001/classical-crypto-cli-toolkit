@@ -270,3 +270,11 @@ Handle sensitive data with caution.
 ---
 
 > “Classical ciphers teach discipline before modern encryption.”
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
